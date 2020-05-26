@@ -1,0 +1,6 @@
+Pritesh Kumar
+Searching and Sorting
+Linear Search/Binary search techniques
+O(n^2) time complexity sorting algorithms(Bubble sort,Selection sort,Insertion sort)
+O(nlogn) time complexity sorting algorithms(Merge Sort,QuickSort)
+Compare time complexity/space complexity of sorting algorithms
